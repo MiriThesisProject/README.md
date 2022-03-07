@@ -5,4 +5,4 @@ Because creating a project that might outlive you and be passed on to others is 
 that is still new but important to consider.
 
 If this project sounds interesting to you and you want to learn more about it, or even participate in some design activities,
-write me a message!
+write a message at miri-fb@posteo.de !
